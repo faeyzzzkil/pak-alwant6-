@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+int main() {
+    string menu(2)=("soto","rawon");
+    int harga(2)=(10000,20000);
+    int 
+    int i;
+    for(i=0;i<2;i++){
+        cout<<"menu ";
+        cout<<menu[1]<<endl;
+        cout<<"harga";
+        cout<<harga[1]<<endl;
+        cout<<"masukan porsi ";
+        cin>>porsi[1];
+        total= porsi[1]*harga[1];
+        cout<<"_________________"<<endl;
+    }
+
+    
+    return 0;
+}
